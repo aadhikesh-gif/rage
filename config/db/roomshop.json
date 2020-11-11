@@ -1,0 +1,94 @@
+{
+  "lobby": {
+    "items": {
+      "donation": {
+        "id": "donation",
+        "name": "Donation",
+        "price": "1",
+        "desc": "Simple Donation"
+      },
+      "kickanyone": {
+        "id": "kickanyone",
+        "name": "Kick Anyone",
+        "price": "5",
+        "desc": "Kicks anyone of your same rank from the room"
+      }
+    },
+    "bank": "aadhikesh"
+  },
+  "avatarshop": {
+    "items": {
+      "basicavatar": {
+        "id": "basicavatar",
+        "name": "Basic Avatar",
+        "price": "5",
+        "desc": "Combines a trainer with a pokemon."
+      },
+      "simplerecolor": {
+        "id": "simplerecolor",
+        "name": "Simple Recolor",
+        "price": "15",
+        "desc": "Recolor a pokemon or trainer as part of your sprite."
+      },
+      "recolorsplash": {
+        "id": "recolorsplash",
+        "name": "Recolor Splash",
+        "price": "20",
+        "desc": "Recolor any part of your basic avatar"
+      },
+      "singleanimation": {
+        "id": "singleanimation",
+        "name": "Single Animation",
+        "price": "20",
+        "desc": "Combine an animated avatar with a non-animated one."
+      },
+      "recoloranimation": {
+        "id": "recoloranimation",
+        "name": "Recolor Animation",
+        "price": "35",
+        "desc": "Recolors an Animated avatar"
+      },
+      "doubleanimation": {
+        "id": "doubleanimation",
+        "name": "Double Animation",
+        "price": "50",
+        "desc": "Makes an avatar with 2 animated sprites."
+      },
+      "userlisticon": {
+        "id": "userlisticon",
+        "name": "Userlist Icon",
+        "price": "60",
+        "desc": "Makes a userlist icon with maximum 6 pokemons."
+      },
+      "roomintro": {
+        "id": "roomintro",
+        "name": "roomintro",
+        "price": "100",
+        "desc": "Makes a roomintro for your room."
+      }
+    },
+    "bank": "aadhikesh"
+  },
+  "casino": {
+    "items": {
+      "givesbuckback": {
+        "id": "givesbuckback",
+        "name": "Gives buck back",
+        "price": "5",
+        "desc": "Gives the bucks you lost in last gamble. Max(15)"
+      }
+    },
+    "bank": "aadhikesh"
+  },
+  "1v1": {
+    "items": {
+      "monopoke": {
+        "id": "monopoke",
+        "name": "Monopoke",
+        "price": "5",
+        "desc": "Creates a monopoke tour with the poke you choose."
+      }
+    },
+    "bank": "aadhikesh"
+  }
+}
